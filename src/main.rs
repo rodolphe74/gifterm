@@ -50,7 +50,7 @@ fn decode_gif(f: &mut File) -> Result<Vec<RgbaImage>, Box<dyn std::error::Error>
 }
 
 fn main() -> Result<(), Box<dyn std::error::Error>> {
-    let mut f = File::open("slayer.gif")?;
+    let mut f = File::open("reload.gif")?;
 
     let rgba_images: Vec<RgbaImage> = decode_gif(&mut f)?;
     // let picker = Picker::halfblocks();
