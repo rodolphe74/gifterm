@@ -1,1 +1,1 @@
-<a href="./gifterm.gif"/>
+<img src="gifterm.gif" width=320>
