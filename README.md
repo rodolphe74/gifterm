@@ -1,1 +1,1 @@
-<img src="gifterm.gif" width=320>
+<img src="gifterm.gif" width=640>
