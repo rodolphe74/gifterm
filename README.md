@@ -1,1 +1,1 @@
-[](gifterm.gif(
+<a href="gifterm.gif"/>
