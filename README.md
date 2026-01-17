@@ -1,1 +1,1 @@
-<a href="gifterm.gif"/>
+<a href="./gifterm.gif"/>
