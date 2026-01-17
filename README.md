@@ -1,1 +1,1 @@
-()[gifterm.gif]
+[](gifterm.gif(
