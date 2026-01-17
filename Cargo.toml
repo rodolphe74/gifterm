@@ -1,0 +1,11 @@
+[package]
+name = "gifterm"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+crossterm = "0.29.0"
+gif = "0.14.1"
+image = "0.25.9"
+ratatui = "0.30.0"
+ratatui-image = "10.0.2"
